@@ -17,10 +17,6 @@ a{
     color: #17141d;
 }
 
-img {
-    
-}
-
 .btn-info{
     background-color: brown;
 }
@@ -38,6 +34,15 @@ img {
 
 .center-info {
     grid-area: centre-info;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 160px;
+    height: 150px;
 }
 
 .projects {
