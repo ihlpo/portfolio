@@ -5,8 +5,8 @@
 }
 
 body{
-    /* background-color: rgba(0, 0, 0, 0.9); */
-    background-image: linear-gradient(to bottom, #0e141e, #102744, #0a3b6e, #014f9a, #0763c8);
+    background-color:  #111111 ;
+    /* background-image: linear-gradient(to bottom, #0e141e, #102744, #0a3b6e, #014f9a, #0763c8); */
     color: #fff;
     
     min-height: 100vh;
